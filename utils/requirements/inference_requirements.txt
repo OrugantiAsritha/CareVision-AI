@@ -1,0 +1,24 @@
+# Web Framework
+fastapi
+uvicorn
+
+# Model Serving
+tritonclient[all]
+numpy
+
+# Image Processing
+Pillow
+
+# Monitoring & Metrics
+prometheus-client
+prometheus-fastapi-instrumentator
+
+
+# Type Hints
+typing-extensions>=4.0.0
+
+# Async Support
+aiofiles
+python-multipart
+
+requests
